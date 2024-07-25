@@ -42,4 +42,3 @@ class CalendarsController < ApplicationController
 end
 
 
-shogoshogoshogoshogo/training_curriculum_rails7
